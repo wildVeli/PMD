@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="tv1">Introduce tu nombre:</string>
+    <string name="Sr">Sr</string>
+    <string name="Sra">Sra</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="clickE">Esta ventana</string>
+    <string name="anotherwindow">Otra ventana</string>
+</resources>
