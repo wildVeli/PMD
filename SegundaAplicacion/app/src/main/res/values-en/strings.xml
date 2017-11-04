@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecondApplication</string>
+    <string name="Resultado"></string>
+    <string name="checkbox">All</string>
+    <string name="radio1">You like 1</string>
+    <string name="radio2">You like 2</string>
+    <string name="radio3">You like 3</string>
+    <string name="checkboxon">You love checkbox</string>
+    <string name="checkboxoff">The checkbox is sad</string>
+    <string name="titulo">Select number</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeleccionMultiple</string>
+    <array name="elementos">
+        <item>Camisa</item>
+        <item>Planta</item>
+        <item>Ordenador</item>
+        <item>Movil</item>
+        <item>Ratón</item>
+    </array>
+</resources>

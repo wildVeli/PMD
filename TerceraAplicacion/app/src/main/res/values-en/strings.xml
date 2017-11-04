@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Third application</string>
+    <string name="llamar">Call steve</string>
+    <string name="llamando">Calling steve</string>
+    <string name="colgar">Hang steve</string>
+</resources>
